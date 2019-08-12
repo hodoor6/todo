@@ -1,4 +1,4 @@
-Описание ipa<br><br>
+Документация по API<br><br>
 / получить список задач <br>
 Route :: get ('tasks', 'TaskController @ index');<br>
 // получить конкретное задание<br>
